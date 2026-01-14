@@ -1,7 +1,7 @@
-# 加密货币脚本
+# Cryptocurrency Scripts
 
-该目录包含一系列用于处理加密货币的 Python 脚本。
+This directory contains a collection of Python scripts for working with cryptocurrencies.
 
-## 脚本列表
+## Script List
 
-*（在此处添加脚本及其说明）*
+* (Add scripts and their descriptions here)*
